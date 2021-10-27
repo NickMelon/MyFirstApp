@@ -7,6 +7,8 @@ namespace MyFirstApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            sgsgvsdfsgsgsg
+                Console.WriteLine("Hello World!");
         }
     }
 }
